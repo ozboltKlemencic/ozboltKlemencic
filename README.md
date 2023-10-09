@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ozboltKlemencic
-- ⚽ I like football
-- 🌱 I’m currently learning web developing,sql,python,c+
-- 💞️ I’m looking to collaborate with you on your future projects
-- 📫 reach me on ozbolt.klemencic@gmail.com
+👋 Hi, I’m @ozboltKlemencic
+⚽ I like football
+🌱 I’m currently learning web developing,sql,python,c+
+💞️ I’m looking to collaborate with you on your future projects
+📫 reach me on ozbolt.klemencic@gmail.com

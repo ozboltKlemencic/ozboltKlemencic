@@ -4,4 +4,4 @@
  - 💞️ I’m looking to collaborate with you on your future projects
  - 📫 reach me on Linkedin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozboltKlemencic&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozboltKlemencic&theme=github_dark&show_icons=true)
